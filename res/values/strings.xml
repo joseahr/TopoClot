@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TopoToide</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_curva_circular">Curva Circular</string>
+    <string name="title_activity_radiar">Radiar desde Pe</string>
+    <string name="title_activity_clotoide">Clotoide</string>
+    <string name="title_activity_datos_campo">Datos de Campo</string>
+    <string name="title_activity_activity_lista_puntos">Lista de Puntos</string>
+
+</resources>

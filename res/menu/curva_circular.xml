@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.topobras.topobras.CurvaCircular" >
+
+    <item
+        android:id="@+id/it_cuflech"
+        android:title="Cuerda y Flecha"/>
+
+        <item
+        android:id="@+id/it_tandis"
+        android:title="Tangente y Distancia al Vértice"/>
+    
+</menu>
